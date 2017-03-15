@@ -17,13 +17,13 @@ class Projects extends Component {
       <div className="Projects">
         <h2>My Projects</h2>
         <hr/>
-        <div className="text-justify">
+        <div className="container">
           <table className="table table-hover">
             <thead>
               <tr>
-                <th>#</th>
-                <th>Project</th>
-                <th>Category</th>
+                <th className="text-center">#</th>
+                <th className="text-center">Project</th>
+                <th className="text-center">Category</th>
               </tr>
             </thead>
             <tbody>{projectItems}</tbody>

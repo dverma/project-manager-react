@@ -1,0 +1,19 @@
+{
+  "projects" : [
+    {
+      "index" : 1,
+      "title": "Personal Website",
+      "category": "Web Design"
+    },
+    {
+      "index" : 2,
+      "title": "CS101",
+      "category": "Algorithms and Data Structures"
+    },
+    {
+      "index" : 3,
+      "title": "Hackerrank",
+      "category": "Competetive Programming"
+    }
+  ]
+}
